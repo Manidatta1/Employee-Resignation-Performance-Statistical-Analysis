@@ -14,9 +14,9 @@ This project explores the relationships between employee demographics, job attri
 ## 📂 Folder Structure
 
 ```
-📁 Statistics-Final-Project
-├── Statistics_Final_Project.ipynb    ← Main analysis notebook
-├── 📊 Employee dataset (CSV not included here)
+📁 Employee Resignation & Performance Statistical Analysis
+├── Employee Resignation & Performance Statistical Analysis.ipynb    ← Main analysis notebook
+├── 📊 Employee Resignation & Performance Statistical Analysis.csv
 └── README.md
 ```
 
