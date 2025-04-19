@@ -59,7 +59,7 @@ This statistical analysis provides actionable insights into employee resignation
 
 ## 👨‍💻 Author
 
-**Mani Datta**  
+**ManiDatta**  
 Master’s in Data Science @ University of Colorado Boulder  
 [GitHub](https://github.com/Manidatta1)
 
