@@ -1,38 +1,38 @@
-# 📊 Employee Resignation & Performance Statistical Analysis
 
-This project explores the relationships between employee demographics, job attributes, and resignation status using a comprehensive employee dataset. Multiple statistical techniques are applied to derive insights into resignation trends, performance scores, and salary distributions.
+# Student Performance Factors Statistical Analysis
 
-## 📌 Project Objectives
+This project explores the relationships between student demographics, study habits, and exam performance using a comprehensive educational dataset. Multiple statistical techniques are applied to derive insights into factors affecting student success.
 
-- 🔍 Investigate how factors like department, age, gender, job title, and years at company influence resignation  
-- 📈 Apply statistical models to assess differences in performance, salary, and work patterns  
-- ✅ Use hypothesis testing, confidence intervals, regression, ANOVA, and bootstrapping  
-- 📊 Visualize patterns and trends to support decision-making
+## Project Objectives
+
+- Investigate how factors like study hours, attendance, parental involvement, and extracurricular activities influence exam scores  
+- Apply statistical models to assess differences in performance across demographic and behavioral groups  
+- Use hypothesis testing, confidence intervals, regression, ANOVA, and bootstrapping  
+- Visualize patterns and trends to support educational decision-making
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
-📁 Employee Resignation & Performance Statistical Analysis
-├── Employee Resignation & Performance Statistical Analysis.ipynb    ← Main analysis notebook
-├── 📊 Employee Resignation & Performance Statistical Analysis.csv
+📁 Student Performance Factors Statistical Analysis
+├── Student Performance Factors Statistical Analysis.ipynb    ← Main analysis notebook
+├── StudentPerformanceFactors.csv
 └── README.md
 ```
 
 ---
 
-## 📚 Techniques Used
+## Techniques Used
 
-- ✅ Hypothesis Testing (t-tests, ANOVA, Chi-Square)
-- 📉 Linear Regression
-- 📐 Confidence Intervals
-- 📊 Bootstrapping & Sampling
-- 📈 Data Visualization with ggplot2, boxplots, bar charts, and density plots
+- Hypothesis Testing (t-tests, levene test, Chi-Square)
+- Confidence Intervals
+- Bootstrapping & Sampling
+- Data Visualization with ggplot2, boxplots, bar charts, and density plots
 
 ---
 
-## 🧰 Tools & Languages
+## Tools & Languages
 
 - R  
 - ggplot2  
@@ -42,24 +42,23 @@ This project explores the relationships between employee demographics, job attri
 
 ---
 
-## 🔬 Key Insights
+## Key Insights
 
-- Significant difference in performance scores and salaries across departments  
-- Younger employees had a higher resignation rate in certain roles  
-- Strong correlations between years at the company and performance score  
-- Gender disparity observed in average salaries and leadership roles  
-
----
-
-## 💡 Conclusion
-
-This statistical analysis provides actionable insights into employee resignation patterns and performance dynamics. The findings support data-driven HR interventions and workforce planning strategies.
+- Students with internet access scored significantly higher, with a p-value of 5.28e-08.  
+- Studying more than 10 hours led to a notable improvement in exam scores.  
+- Parental education level showed a strong impact on academic performance.  
+- The average exam score was estimated with a 95% confidence interval between 67.00 and 67.15.
 
 ---
 
-## 👨‍💻 Author
+## Conclusion
+
+This statistical analysis provides actionable insights into the key drivers of student academic success. The findings support educational interventions, targeted tutoring programs, and strategic improvements in school environments.
+
+---
+
+## Author
 
 **ManiDatta**  
 Master’s in Data Science @ University of Colorado Boulder  
 [GitHub](https://github.com/Manidatta1)
-
